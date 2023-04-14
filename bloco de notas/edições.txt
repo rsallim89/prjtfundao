@@ -1,0 +1,4 @@
+No arquivo index
+ - foi diminuido o tamanho das imagens das ODS's
+ - foi criado um botao nas imagens das ODS's:
+ 1, 2, 4, 5, 6, 7, 8 e 10
